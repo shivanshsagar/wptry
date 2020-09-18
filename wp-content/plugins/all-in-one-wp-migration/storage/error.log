@@ -1,0 +1,15 @@
+Sep 18 2020 05:43:12
+{"type":2,"message":"POST Content-Length of 314666102 bytes exceeds the limit of 8388608 bytes","file":"Unknown","line":0}
+
+Sep 18 2020 06:18:54
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/qqv3pv10g8ou\/enmmart.com-20200910-044017-9u155u.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":229}
+
+Sep 18 2020 06:18:54
+{"Number":2,"Message":"Division by zero","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","Line":61}
+
+Sep 18 2020 06:18:54
+{"Number":2,"Message":"fopen(\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/qqv3pv10g8ou\/enmmart.com-20200910-044017-9u155u.wpress): failed to open stream: No such file or directory","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-archiver.php","Line":98}
+
+Sep 18 2020 07:07:25
+{"type":2,"message":"POST Content-Length of 314666102 bytes exceeds the limit of 8388608 bytes","file":"Unknown","line":0}
+
